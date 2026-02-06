@@ -1,0 +1,4 @@
+Uses Quotable API → https://api.quotable.io/random
+✔ Backend fetches external data
+✔ Frontend displays result
+✔ Required for submission (fully implemented)
